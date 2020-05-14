@@ -1,5 +1,5 @@
 # Shekoukou
-A third-person Role Playing Game (RPG) created using Unreal Engine 🕹 🏆 (2016).
+A third-person Role Playing Game (RPG) created using Unreal Engine 🕹 🏆 (2016)
 
 ![picture alt](https://github.com/MalakSadek/Shekoukou/blob/master/player.png "Output Report")
 
